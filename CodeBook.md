@@ -41,13 +41,14 @@ In this work there were used following files:
 
 * 'README.txt'
 * 'features_info.txt': Shows information about the variables used on the feature vector.
-<br>
-<br>
+<br><br>
 * 'features.txt': List of all features.
 * 'activity_labels.txt': Links the class labels with their activity name.
+<br><br>
 * 'train/X_train.txt': Training set.
 * 'train/y_train.txt': Training labels.
 * 'train/subject_train.txt': Each row identifies the subject who performed the activity for each window sample. Its range is from 1 to 30. 
+<br><br>
 * 'test/X_test.txt': Test set.
 * 'test/y_test.txt': Test labels.
 * 'test/subject_test.txt': Each row identifies the subject who performed the activity for each window sample. Its range is from 1 to 30. 
