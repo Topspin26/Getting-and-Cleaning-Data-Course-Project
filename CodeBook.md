@@ -1,7 +1,4 @@
----
-title: Course Project CodeBook
-output: html_document
----
+#title: Course Project CodeBook
 
 ##Original dataset
 
