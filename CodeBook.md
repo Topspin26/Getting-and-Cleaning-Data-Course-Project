@@ -1,4 +1,4 @@
-#title: Course Project CodeBook
+#Course Project CodeBook
 
 ##Original dataset
 
@@ -39,8 +39,8 @@ The obtained dataset has been randomly partitioned into two sets, where 70% of t
 
 In this work there were used following files:
 
-* 'README.txt'
-* 'features_info.txt': Shows information about the variables used on the feature vector.
+* README.txt
+* features_info.txt: Shows information about the variables used on the feature vector.
 
 * 'features.txt': List of all features.
 * 'activity_labels.txt': Links the class labels with their activity name.
